@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 6
+ff0013
+K 8
+svn:date
+V 27
+2015-10-02T17:16:11.387229Z
+K 7
+svn:log
+V 156
+Did a bunch of modifications to older classes.
+Added Image Utility class for loading, scaling and cropping images.
+Added Proper Drawing to BoardPanel Class.
+END

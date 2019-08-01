@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 6
+ff0013
+K 8
+svn:date
+V 27
+2015-09-29T20:22:30.852219Z
+K 7
+svn:log
+V 245
+Added Main Class and Method.
+Added some more methods to BoardPanel
+Added Timer, Board and Audio Objects to the constructors of both GUI and BoardPanel
+Expanded upon the concept of Stoppable, so that it is now possible to reset Stoppable Objects.
+END
